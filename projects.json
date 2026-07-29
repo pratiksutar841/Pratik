@@ -1,0 +1,77 @@
+[
+  {
+    "name": "AI Company Research Assistant",
+    "repo": "pratiksutar841/Company-Research-Assistant",
+    "logo": "logo.png",
+    "description": "Automated research app that crawls company sites, scrapes news/knowledge data, and streams an AI-synthesized intelligence report exportable as PDF",
+    "tags": [
+      "FastAPI",
+      "Next.js",
+      "Python",
+      "OpenRouter",
+      "ReportLab"
+    ]
+  },
+  {
+    "name": "AI-Based Recruitment System",
+    "repo": "pratiksutar841/AI-Based-Recruitment-System",
+    "logo": "logo.png",
+    "description": "Multi-agent AI system that screens resumes, sends candidate emails, and auto-schedules Zoom interviews using Phidata agents",
+    "tags": [
+      "Python",
+      "Streamlit",
+      "Phidata",
+      "LLM",
+      "Zoom API"
+    ]
+  },
+  {
+    "name": "Multiple Disease Prediction System",
+    "repo": "pratiksutar841/Multiple-disease-prediction-streamlit-app",
+    "logo": "logo.png",
+    "description": "ML-powered Streamlit app predicting Diabetes, Heart Disease, and Parkinson's using trained SVC and Logistic Regression models",
+    "tags": [
+      "Python",
+      "Streamlit",
+      "Scikit-learn",
+      "Machine Learning"
+    ]
+  },
+  {
+    "name": "Myntra Review Scraper & Analyzer",
+    "repo": "pratiksutar841/Myntra-Review-Scrapper",
+    "logo": "logo.png",
+    "description": "End-to-end scraper that extracts Myntra product reviews and visualizes sentiment and pricing insights on an interactive dashboard",
+    "tags": [
+      "Python",
+      "Selenium",
+      "Streamlit",
+      "MongoDB",
+      "NLP"
+    ]
+  },
+  {
+    "name": "Economic News Monitoring Agent",
+    "repo": "pratiksutar841/Economic-Nws-Agent",
+    "logo": "logo.png",
+    "description": "Node.js agent that monitors trusted news sources, scores relevance, deduplicates articles, and uses LLMs to filter by economic importance",
+    "tags": [
+      "Node.js",
+      "Express",
+      "OpenAI API",
+      "Cron"
+    ]
+  },
+  {
+    "name": "Shipment Price Predictor",
+    "repo": "pratiksutar841/Shipment-Price-Prediction",
+    "logo": "logo.png",
+    "description": "ML dashboard predicting shipment costs from item dimensions, weight, and transport mode, with AWS S3 model storage and MongoDB backend",
+    "tags": [
+      "FastAPI",
+      "Scikit-learn",
+      "MongoDB",
+      "AWS S3"
+    ]
+  }
+]
